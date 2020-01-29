@@ -10,3 +10,4 @@ Will it be really as hard as Dark Souls?  Probably, but I'm up for the challenge
 4. **Largest palindrome product** - Jan 26, 2020
 5. **Smallest multiple** - Jan 26, 2020
 6. **Sum square difference** - Jan 26, 2020
+7. **10001st prime number** - Jan 28, 2020
